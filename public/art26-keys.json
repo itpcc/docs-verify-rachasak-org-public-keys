@@ -1,0 +1,8 @@
+{
+	"solana": {
+		"devnet": {
+			"tx_pub_key": "B2tdro75XFhUHczppQ9scpuWfhg8KPzF8DYtMgNV1DRp",
+			"tx_program": "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr"
+		}
+	}
+}
